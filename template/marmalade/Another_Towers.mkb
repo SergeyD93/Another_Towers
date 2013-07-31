@@ -13,75 +13,20 @@ options
 
 	module_path="../../cocos2dx/proj.marmalade/"
 	module_path="../../extensions/proj.marmalade/"
-	module_path="../../Box2D/proj.marmalade/"
+	#module_path="../../Box2D/proj.marmalade/"
 	module_path="../../CocosDenshion/proj.marmalade/"
 }
 assets
 {
  (Data)
- 
- [iPhone]
- back_layers.xml
- background.xml
- items.xml
- objects.xml
- player.xml
- quest_open.xml
- quests.xml
- settings.xml
- strings.xml
- black.png
- windows.xml
- Fonts/.
- levels/.
- Shaders/.
- Sound/.
- xml/.
- Textures/960_640/.
- TapjoyResources.bundle/.
- 
- [iPad]
- back_layers.xml
- background.xml
- items.xml
- objects.xml
- player.xml
- quest_open.xml
- quests.xml
- settings.xml
- strings.xml
- windows.xml
- black.png
- Fonts/.
- levels/.
- Shaders/.
- Sound/.
- xml/.
- Textures/1024_768/.
- Textures/2048_1536/.
- TapjoyResources.bundle/.
 
- [Android]
- back_layers.xml
- background.xml
- items.xml
- objects.xml
- player.xml
- quest_open.xml
- quests.xml
- settings.xml
- strings.xml
- windows.xml
- black.png
+ [Default]
  Fonts/.
- levels/.
- Shaders/.
- Sound/.
- xml/.
-  Textures/512_384/.
+ Textures/512_384/.
+ Textures/960_640/.
  Textures/1024_768/.
  Textures/2048_1536/.
- TapjoyResources.bundle/.
+
 }
 includepaths
 {
@@ -93,13 +38,13 @@ subprojects
 
 	IwGL
 	iwhttp
-	s3eIOSGameCenter
+	#s3eIOSGameCenter
 	s3eDialog
-	s3eTapjoy
-	CB_SDK
+	#s3eTapjoy
+	#CB_SDK
 	#s3eAppLovin
-	s3eAndroidMarketBilling
-   	s3eIOSAppStoreBilling
+	#s3eAndroidMarketBilling
+   	#s3eIOSAppStoreBilling
 
 	
 # required module of cocos2d-x
@@ -109,7 +54,7 @@ subprojects
 
 # additional modules of cocos2d-x - uncomment if necessary
 
-	Box2D
+	#Box2D
 #	chipmunk
 	CocosDenshion
     pugixml
@@ -122,32 +67,8 @@ files
 	"*.h"
 	"*.cpp"
 	
-	[Source/Utils]	
-	("Source/Utils")
-	"*.h"
-	"*.cpp"
-	
-	[Source/Objects]	
-	("Source/Objects")
-	"*.h"
-	"*.cpp"
-	
-	[Source/Properties]
-	("Source/Properties")
-	"*.h"
-	
 	[Source/DataProcessor]
 	(Source/DataProcessor)
-	"*.h"
-	"*.cpp"
-
-	[Source/Dialog]	
-	("Source/Dialog")
-	"*.h"
-	"*.cpp"
-	
-	[Source/Gadgets]
-	(Source/Gadgets)
 	"*.h"
 	"*.cpp"
 	
