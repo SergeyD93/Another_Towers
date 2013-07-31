@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/smooth
+END
+ftgrays.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/smooth/ftgrays.c
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/smooth/rules.mk
+END
+ftsmooth.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/smooth/ftsmooth.c
+END
+ftgrays.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/smooth/ftgrays.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/smooth/Jamfile
+END
+ftsmooth.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/smooth/ftsmooth.h
+END
+ftspic.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/smooth/ftspic.c
+END
+smooth.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/smooth/smooth.c
+END
+ftsmerrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/smooth/ftsmerrs.h
+END
+module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/smooth/module.mk
+END
+ftspic.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/smooth/ftspic.h
+END

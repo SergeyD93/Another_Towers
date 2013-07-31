@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/surfer/!svn/ver/487/cocos2dx/platform/linux
+END
+CCApplication.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/surfer/!svn/ver/487/cocos2dx/platform/linux/CCApplication.h
+END
+CCCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/surfer/!svn/ver/487/cocos2dx/platform/linux/CCCommon.cpp
+END
+CCStdC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/surfer/!svn/ver/487/cocos2dx/platform/linux/CCStdC.cpp
+END
+CCAccelerometer.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/surfer/!svn/ver/487/cocos2dx/platform/linux/CCAccelerometer.h
+END
+CCFileUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/surfer/!svn/ver/487/cocos2dx/platform/linux/CCFileUtils.cpp
+END
+CCEGLView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/surfer/!svn/ver/487/cocos2dx/platform/linux/CCEGLView.cpp
+END
+CCImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/surfer/!svn/ver/487/cocos2dx/platform/linux/CCImage.cpp
+END
+CCStdC.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/surfer/!svn/ver/487/cocos2dx/platform/linux/CCStdC.h
+END
+CCApplication.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/surfer/!svn/ver/487/cocos2dx/platform/linux/CCApplication.cpp
+END
+CCPlatformDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/surfer/!svn/ver/487/cocos2dx/platform/linux/CCPlatformDefine.h
+END
+CCEGLView.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/surfer/!svn/ver/487/cocos2dx/platform/linux/CCEGLView.h
+END
+CCGL.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/surfer/!svn/ver/487/cocos2dx/platform/linux/CCGL.h
+END

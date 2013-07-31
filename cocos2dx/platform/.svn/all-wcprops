@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/surfer/!svn/ver/720/cocos2dx/platform
+END
+CCEGLViewProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/surfer/!svn/ver/484/cocos2dx/platform/CCEGLViewProtocol.h
+END
+CCApplicationProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/surfer/!svn/ver/484/cocos2dx/platform/CCApplicationProtocol.h
+END
+CCCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/surfer/!svn/ver/484/cocos2dx/platform/CCCommon.h
+END
+CCPlatformMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/surfer/!svn/ver/484/cocos2dx/platform/CCPlatformMacros.h
+END
+CCImageCommon_cpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/surfer/!svn/ver/484/cocos2dx/platform/CCImageCommon_cpp.h
+END
+CCFileUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/surfer/!svn/ver/484/cocos2dx/platform/CCFileUtils.h
+END
+CCThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/surfer/!svn/ver/484/cocos2dx/platform/CCThread.cpp
+END
+CCSAXParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/surfer/!svn/ver/484/cocos2dx/platform/CCSAXParser.cpp
+END
+CCAccelerometerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/surfer/!svn/ver/484/cocos2dx/platform/CCAccelerometerDelegate.h
+END
+CCThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/surfer/!svn/ver/3/cocos2dx/platform/CCThread.h
+END
+CCSAXParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/surfer/!svn/ver/3/cocos2dx/platform/CCSAXParser.h
+END
+platform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/surfer/!svn/ver/3/cocos2dx/platform/platform.cpp
+END
+CCPlatformConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/surfer/!svn/ver/484/cocos2dx/platform/CCPlatformConfig.h
+END
+CCFileUtilsCommon_cpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/surfer/!svn/ver/484/cocos2dx/platform/CCFileUtilsCommon_cpp.h
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/surfer/!svn/ver/3/cocos2dx/platform/platform.h
+END
+CCEGLViewProtocol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/surfer/!svn/ver/484/cocos2dx/platform/CCEGLViewProtocol.cpp
+END
+CCImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/surfer/!svn/ver/484/cocos2dx/platform/CCImage.h
+END

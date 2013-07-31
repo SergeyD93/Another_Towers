@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/surfer/!svn/ver/487/cocos2dx/support
+END
+CCUserDefault.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/surfer/!svn/ver/484/cocos2dx/support/CCUserDefault.h
+END
+CCProfiling.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/surfer/!svn/ver/484/cocos2dx/support/CCProfiling.cpp
+END
+TransformUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/surfer/!svn/ver/484/cocos2dx/support/TransformUtils.h
+END
+CCPointExtension.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/surfer/!svn/ver/484/cocos2dx/support/CCPointExtension.h
+END
+CCNotificationCenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/surfer/!svn/ver/487/cocos2dx/support/CCNotificationCenter.h
+END
+CCProfiling.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/surfer/!svn/ver/484/cocos2dx/support/CCProfiling.h
+END
+ccUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/surfer/!svn/ver/3/cocos2dx/support/ccUtils.cpp
+END
+ccUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/surfer/!svn/ver/3/cocos2dx/support/ccUtils.h
+END
+CCVertex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/surfer/!svn/ver/3/cocos2dx/support/CCVertex.cpp
+END
+base64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/surfer/!svn/ver/3/cocos2dx/support/base64.cpp
+END
+CCVertex.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/surfer/!svn/ver/484/cocos2dx/support/CCVertex.h
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/surfer/!svn/ver/3/cocos2dx/support/base64.h
+END
+CCUserDefault.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/surfer/!svn/ver/484/cocos2dx/support/CCUserDefault.cpp
+END
+CCPointExtension.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/surfer/!svn/ver/484/cocos2dx/support/CCPointExtension.cpp
+END
+TransformUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/surfer/!svn/ver/484/cocos2dx/support/TransformUtils.cpp
+END
+CCNotificationCenter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/surfer/!svn/ver/487/cocos2dx/support/CCNotificationCenter.cpp
+END

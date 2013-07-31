@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/psnames
+END
+pspic.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/psnames/pspic.c
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/psnames/rules.mk
+END
+pstables.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/psnames/pstables.h
+END
+pspic.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/psnames/pspic.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/psnames/Jamfile
+END
+psnames.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/psnames/psnames.c
+END
+psmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/psnames/psmodule.c
+END
+module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/psnames/module.mk
+END
+psnamerr.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/psnames/psnamerr.h
+END
+psmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/psnames/psmodule.h
+END

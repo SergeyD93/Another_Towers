@@ -1,0 +1,131 @@
+10
+
+dir
+1172
+http://ilogos-ua.dyndns.org/svn/surfer/cocos2dx/platform/third_party/marmalade/freetype/src
+http://ilogos-ua.dyndns.org/svn/surfer
+
+
+
+2012-09-10T13:38:56.814895Z
+3
+dmytro.kazak@ilogos-ua.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5f14d45c-80e6-407b-b58d-051a7ae317af
+
+truetype
+dir
+
+pfr
+dir
+
+type42
+dir
+
+bdf
+dir
+
+pshinter
+dir
+
+gxvalid
+dir
+
+cff
+dir
+
+cid
+dir
+
+psaux
+dir
+
+raster
+dir
+
+tools
+dir
+
+otvalid
+dir
+
+type1
+dir
+
+cache
+dir
+
+psnames
+dir
+
+winfonts
+dir
+
+Jamfile
+file
+
+
+
+
+2013-07-01T08:23:21.000000Z
+d6db803dc8261ba9f3d158e7ff70ff01
+2012-09-10T13:38:56.814895Z
+3
+dmytro.kazak@ilogos-ua.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+783
+
+pcf
+dir
+
+gzip
+dir
+
+smooth
+dir
+
+base
+dir
+
+sfnt
+dir
+
+autofit
+dir
+
+lzw
+dir
+

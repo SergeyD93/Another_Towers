@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/cid
+END
+cidparse.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/cid/cidparse.h
+END
+cidload.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/cid/cidload.c
+END
+ciderrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/cid/ciderrs.h
+END
+cidload.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/cid/cidload.h
+END
+cidtoken.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/cid/cidtoken.h
+END
+cidgload.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/cid/cidgload.c
+END
+cidriver.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/cid/cidriver.c
+END
+module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/cid/module.mk
+END
+cidgload.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/cid/cidgload.h
+END
+cidriver.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/cid/cidriver.h
+END
+cidobjs.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/cid/cidobjs.c
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/cid/rules.mk
+END
+type1cid.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/cid/type1cid.c
+END
+cidobjs.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/cid/cidobjs.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/cid/Jamfile
+END
+cidparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/cid/cidparse.c
+END

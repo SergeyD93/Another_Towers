@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/otvalid
+END
+otvgdef.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/otvalid/otvgdef.c
+END
+otvjstf.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/otvalid/otvjstf.c
+END
+otvgpos.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/otvalid/otvgpos.c
+END
+otvcommn.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/otvalid/otvcommn.c
+END
+otvalid.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/otvalid/otvalid.c
+END
+otvbase.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/otvalid/otvbase.c
+END
+otvgpos.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/otvalid/otvgpos.h
+END
+otvcommn.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/otvalid/otvcommn.h
+END
+otvalid.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/otvalid/otvalid.h
+END
+otvmod.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/otvalid/otvmod.c
+END
+module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/otvalid/module.mk
+END
+otvmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/otvalid/otvmod.h
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/otvalid/rules.mk
+END
+otvmath.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/otvalid/otvmath.c
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/otvalid/Jamfile
+END
+otverror.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/otvalid/otverror.h
+END
+otvgsub.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/otvalid/otvgsub.c
+END

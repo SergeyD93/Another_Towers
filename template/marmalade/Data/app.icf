@@ -1,0 +1,39 @@
+# This file is for configuration settings for your
+# application.
+#
+# The syntax is similar to windows .ini files ie
+#
+# [GroupName]
+# Setting = Value
+#
+# Which can be read by your application using
+#  e.g s3eConfigGetString("GroupName", "Setting", string)
+#
+# All settings must be documented in .config.txt files.
+# New settings specific to this application should be
+# documented in app.config.txt
+#
+# Some conditional operations are also permitted, see the
+# S3E documentation for details.
+
+[MySettings]
+isIphone = 0
+isFree = 0
+isDebug = 1
+
+
+[GL]
+EGL_DEPTH_ENCODING_NV = 0x30E3
+AllowNegativeUniformLocation = 1
+GlesSurfRecreateOnResize = 1
+
+[S3E]
+SysGlesVersion = 2
+DispFixRot = Landscape
+IOSDispScaleFactor = 200
+ 
+MemSize = 45000000
+MemSizeDebug = 64000000
+
+[UTIL]
+MemMgrMaxAllocWarning=0

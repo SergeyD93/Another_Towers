@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/win32/curl
+END
+stdcheaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/win32/curl/stdcheaders.h
+END
+typecheck-gcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/win32/curl/typecheck-gcc.h
+END
+multi.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/win32/curl/multi.h
+END
+mprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/win32/curl/mprintf.h
+END
+curlrules.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/win32/curl/curlrules.h
+END
+easy.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/win32/curl/easy.h
+END
+curlver.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/win32/curl/curlver.h
+END
+curl.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/win32/curl/curl.h
+END
+curlbuild.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/win32/curl/curlbuild.h
+END

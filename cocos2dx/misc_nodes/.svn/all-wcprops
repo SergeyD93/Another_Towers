@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/surfer/!svn/ver/487/cocos2dx/misc_nodes
+END
+CCProgressTimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/surfer/!svn/ver/484/cocos2dx/misc_nodes/CCProgressTimer.h
+END
+CCClippingNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/surfer/!svn/ver/487/cocos2dx/misc_nodes/CCClippingNode.cpp
+END
+CCMotionStreak.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/surfer/!svn/ver/484/cocos2dx/misc_nodes/CCMotionStreak.cpp
+END
+CCClippingNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/surfer/!svn/ver/487/cocos2dx/misc_nodes/CCClippingNode.h
+END
+CCRenderTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/surfer/!svn/ver/484/cocos2dx/misc_nodes/CCRenderTexture.cpp
+END
+CCMotionStreak.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/surfer/!svn/ver/484/cocos2dx/misc_nodes/CCMotionStreak.h
+END
+CCProgressTimer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/surfer/!svn/ver/484/cocos2dx/misc_nodes/CCProgressTimer.cpp
+END
+CCRenderTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/surfer/!svn/ver/484/cocos2dx/misc_nodes/CCRenderTexture.h
+END

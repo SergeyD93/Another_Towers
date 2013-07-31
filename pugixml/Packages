@@ -1,0 +1,24 @@
+# Marmalade developer package listing.
+# Generted by mdev v0.2.
+# The format of this file is similar but not identical to that used by debian's apt.
+Package-Format: 2
+Package: pugixml
+Version: 1.0.0
+Revision: 3
+Maintainer: Game Master <gamemaster@101gr.com>
+Description: |
+  pugixml is better than tinyxml!
+  Copyright (C) 2006-2010, by Arseny Kapoulkine (arseny.kapoulkine@gmail.com)
+Built-With: 5.0.1
+Type: platform-independant
+Filename: pugixml_1.0.0-3.mdev
+Size: 64896
+MD5Sum: f20b4840dbf39b19406fb8bbf5c96098
+
+Source: pugixml
+Version: 1.0.0
+Revision: 3
+Type: platform-independant
+Filename: pugixml_1.0.0-3.msrc
+Size: 65041
+MD5Sum: 1d7105d48d5b9d024e3b04f035dad98c

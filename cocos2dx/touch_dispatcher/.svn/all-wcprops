@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/surfer/!svn/ver/487/cocos2dx/touch_dispatcher
+END
+CCTouchDispatcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/surfer/!svn/ver/484/cocos2dx/touch_dispatcher/CCTouchDispatcher.cpp
+END
+CCTouchDispatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/surfer/!svn/ver/484/cocos2dx/touch_dispatcher/CCTouchDispatcher.h
+END
+CCTouchHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/surfer/!svn/ver/484/cocos2dx/touch_dispatcher/CCTouchHandler.cpp
+END
+CCTouch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/surfer/!svn/ver/487/cocos2dx/touch_dispatcher/CCTouch.cpp
+END
+CCTouchDelegateProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/surfer/!svn/ver/484/cocos2dx/touch_dispatcher/CCTouchDelegateProtocol.h
+END
+CCTouchHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/surfer/!svn/ver/484/cocos2dx/touch_dispatcher/CCTouchHandler.h
+END
+CCTouch.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/surfer/!svn/ver/484/cocos2dx/touch_dispatcher/CCTouch.h
+END

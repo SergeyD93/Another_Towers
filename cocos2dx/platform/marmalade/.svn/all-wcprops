@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/surfer/!svn/ver/720/cocos2dx/platform/marmalade
+END
+CCApplication.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/surfer/!svn/ver/484/cocos2dx/platform/marmalade/CCApplication.h
+END
+CCCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/surfer/!svn/ver/484/cocos2dx/platform/marmalade/CCCommon.cpp
+END
+CCAccelerometer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/surfer/!svn/ver/484/cocos2dx/platform/marmalade/CCAccelerometer.cpp
+END
+CCAccelerometer.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/surfer/!svn/ver/484/cocos2dx/platform/marmalade/CCAccelerometer.h
+END
+CCFileUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/surfer/!svn/ver/484/cocos2dx/platform/marmalade/CCFileUtils.cpp
+END
+CCEGLView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/surfer/!svn/ver/720/cocos2dx/platform/marmalade/CCEGLView.cpp
+END
+CCImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/surfer/!svn/ver/484/cocos2dx/platform/marmalade/CCImage.cpp
+END
+CCStdC.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/surfer/!svn/ver/484/cocos2dx/platform/marmalade/CCStdC.h
+END
+CCApplication.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/surfer/!svn/ver/484/cocos2dx/platform/marmalade/CCApplication.cpp
+END
+CCPlatformDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/surfer/!svn/ver/484/cocos2dx/platform/marmalade/CCPlatformDefine.h
+END
+CCEGLView.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/surfer/!svn/ver/484/cocos2dx/platform/marmalade/CCEGLView.h
+END
+CCGL.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/surfer/!svn/ver/484/cocos2dx/platform/marmalade/CCGL.h
+END

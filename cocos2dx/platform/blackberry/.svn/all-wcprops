@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/surfer/!svn/ver/487/cocos2dx/platform/blackberry
+END
+CCApplication.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/surfer/!svn/ver/487/cocos2dx/platform/blackberry/CCApplication.h
+END
+CCCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/surfer/!svn/ver/487/cocos2dx/platform/blackberry/CCCommon.cpp
+END
+CCAccelerometer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/surfer/!svn/ver/487/cocos2dx/platform/blackberry/CCAccelerometer.cpp
+END
+CCAccelerometer.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/surfer/!svn/ver/487/cocos2dx/platform/blackberry/CCAccelerometer.h
+END
+CCFileUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/surfer/!svn/ver/487/cocos2dx/platform/blackberry/CCFileUtils.cpp
+END
+CCEGLView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/surfer/!svn/ver/487/cocos2dx/platform/blackberry/CCEGLView.cpp
+END
+CCImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/surfer/!svn/ver/487/cocos2dx/platform/blackberry/CCImage.cpp
+END
+CCStdC.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/surfer/!svn/ver/487/cocos2dx/platform/blackberry/CCStdC.h
+END
+CCApplication.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/surfer/!svn/ver/487/cocos2dx/platform/blackberry/CCApplication.cpp
+END
+CCPlatformDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/surfer/!svn/ver/487/cocos2dx/platform/blackberry/CCPlatformDefine.h
+END
+CCEGLView.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/surfer/!svn/ver/487/cocos2dx/platform/blackberry/CCEGLView.h
+END
+CCGL.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/surfer/!svn/ver/487/cocos2dx/platform/blackberry/CCGL.h
+END

@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base
+END
+ftsynth.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftsynth.c
+END
+ftstroke.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftstroke.c
+END
+ftfstype.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftfstype.c
+END
+ftpic.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftpic.c
+END
+basepic.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/basepic.c
+END
+ftbitmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftbitmap.c
+END
+basepic.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/basepic.h
+END
+ftrfork.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftrfork.c
+END
+ftglyph.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftglyph.c
+END
+ftsnames.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftsnames.c
+END
+ftgasp.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftgasp.c
+END
+ftbdf.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftbdf.c
+END
+ftdbgmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftdbgmem.c
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/Jamfile
+END
+ftcalc.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftcalc.c
+END
+fttype1.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/fttype1.c
+END
+ftinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftinit.c
+END
+ftwinfnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftwinfnt.c
+END
+ftgloadr.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftgloadr.c
+END
+ftmm.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftmm.c
+END
+ftapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftapi.c
+END
+ftbase.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftbase.c
+END
+ftutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftutil.c
+END
+ftbase.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftbase.h
+END
+ftgxval.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftgxval.c
+END
+ftsystem.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftsystem.c
+END
+ftotval.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftotval.c
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/rules.mk
+END
+ftdebug.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftdebug.c
+END
+ftpfr.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftpfr.c
+END
+ftbbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftbbox.c
+END
+ftstream.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftstream.c
+END
+ftpatent.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftpatent.c
+END
+ftxf86.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftxf86.c
+END
+ftadvanc.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftadvanc.c
+END
+ftobjs.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftobjs.c
+END
+ftlcdfil.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftlcdfil.c
+END
+ftcid.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftcid.c
+END
+ftmac.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftmac.c
+END
+ftoutln.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/ftoutln.c
+END
+fttrigon.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/base/fttrigon.c
+END

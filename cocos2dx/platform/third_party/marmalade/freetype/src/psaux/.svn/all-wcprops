@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/psaux
+END
+afmparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/psaux/afmparse.c
+END
+psobjs.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/psaux/psobjs.c
+END
+psauxmod.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/psaux/psauxmod.c
+END
+psaux.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/psaux/psaux.c
+END
+afmparse.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/psaux/afmparse.h
+END
+psobjs.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/psaux/psobjs.h
+END
+psauxmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/psaux/psauxmod.h
+END
+psconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/psaux/psconv.c
+END
+module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/psaux/module.mk
+END
+psconv.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/psaux/psconv.h
+END
+psauxerr.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/psaux/psauxerr.h
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/psaux/rules.mk
+END
+t1cmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/psaux/t1cmap.c
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/psaux/Jamfile
+END
+t1decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/psaux/t1decode.c
+END
+t1cmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/psaux/t1cmap.h
+END
+t1decode.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/psaux/t1decode.h
+END

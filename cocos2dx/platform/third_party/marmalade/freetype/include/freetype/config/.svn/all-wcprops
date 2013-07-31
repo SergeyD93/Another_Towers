@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/include/freetype/config
+END
+ftstdlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/include/freetype/config/ftstdlib.h
+END
+ftconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/include/freetype/config/ftconfig.h
+END
+ftmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/include/freetype/config/ftmodule.h
+END
+ftheader.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/include/freetype/config/ftheader.h
+END
+ftoption.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/include/freetype/config/ftoption.h
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pshinter
+END
+pshglob.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pshinter/pshglob.c
+END
+pshmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pshinter/pshmod.h
+END
+pshalgo.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pshinter/pshalgo.h
+END
+pshglob.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pshinter/pshglob.h
+END
+pshnterr.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pshinter/pshnterr.h
+END
+module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pshinter/module.mk
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pshinter/rules.mk
+END
+pshrec.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pshinter/pshrec.c
+END
+pshpic.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pshinter/pshpic.c
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pshinter/Jamfile
+END
+pshrec.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pshinter/pshrec.h
+END
+pshmod.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pshinter/pshmod.c
+END
+pshpic.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pshinter/pshpic.h
+END
+pshinter.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pshinter/pshinter.c
+END
+pshalgo.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pshinter/pshalgo.c
+END

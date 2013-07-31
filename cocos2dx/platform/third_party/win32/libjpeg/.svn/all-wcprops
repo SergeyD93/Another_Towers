@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/win32/libjpeg
+END
+jconfig_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/win32/libjpeg/jconfig_win.h
+END
+jmorecfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/win32/libjpeg/jmorecfg.h
+END
+jpeglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/win32/libjpeg/jpeglib.h
+END
+jconfig_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/win32/libjpeg/jconfig_linux.h
+END
+jconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/win32/libjpeg/jconfig.h
+END
+jerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/win32/libjpeg/jerror.h
+END

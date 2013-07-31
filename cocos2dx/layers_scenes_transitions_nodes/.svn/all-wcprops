@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/surfer/!svn/ver/484/cocos2dx/layers_scenes_transitions_nodes
+END
+CCTransition.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/surfer/!svn/ver/484/cocos2dx/layers_scenes_transitions_nodes/CCTransition.cpp
+END
+CCLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/surfer/!svn/ver/484/cocos2dx/layers_scenes_transitions_nodes/CCLayer.cpp
+END
+CCScene.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/surfer/!svn/ver/3/cocos2dx/layers_scenes_transitions_nodes/CCScene.cpp
+END
+CCTransition.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/surfer/!svn/ver/484/cocos2dx/layers_scenes_transitions_nodes/CCTransition.h
+END
+CCTransitionProgress.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/484/cocos2dx/layers_scenes_transitions_nodes/CCTransitionProgress.cpp
+END
+CCTransitionPageTurn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/484/cocos2dx/layers_scenes_transitions_nodes/CCTransitionPageTurn.cpp
+END
+CCLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/surfer/!svn/ver/484/cocos2dx/layers_scenes_transitions_nodes/CCLayer.h
+END
+CCScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/surfer/!svn/ver/484/cocos2dx/layers_scenes_transitions_nodes/CCScene.h
+END
+CCTransitionProgress.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/surfer/!svn/ver/484/cocos2dx/layers_scenes_transitions_nodes/CCTransitionProgress.h
+END
+CCTransitionPageTurn.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/surfer/!svn/ver/484/cocos2dx/layers_scenes_transitions_nodes/CCTransitionPageTurn.h
+END

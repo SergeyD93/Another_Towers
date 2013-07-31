@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/linux/libjpeg
+END
+cdjpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/linux/libjpeg/cdjpeg.h
+END
+jmorecfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/linux/libjpeg/jmorecfg.h
+END
+jpeglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/linux/libjpeg/jpeglib.h
+END
+transupp.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/linux/libjpeg/transupp.h
+END
+jinclude.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/linux/libjpeg/jinclude.h
+END
+jconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/linux/libjpeg/jconfig.h
+END
+jversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/linux/libjpeg/jversion.h
+END
+cderror.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/linux/libjpeg/cderror.h
+END
+jpegint.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/linux/libjpeg/jpegint.h
+END
+jerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/linux/libjpeg/jerror.h
+END
+jdct.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/linux/libjpeg/jdct.h
+END
+jchuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/linux/libjpeg/jchuff.h
+END
+jdhuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/linux/libjpeg/jdhuff.h
+END
+jmemsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/linux/libjpeg/jmemsys.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/lzw
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/lzw/rules.mk
+END
+ftzopen.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/lzw/ftzopen.c
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/lzw/Jamfile
+END
+ftlzw.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/lzw/ftlzw.c
+END
+ftzopen.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/lzw/ftzopen.h
+END

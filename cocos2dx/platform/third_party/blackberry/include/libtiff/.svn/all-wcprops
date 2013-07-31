@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/blackberry/include/libtiff
+END
+tiffconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/blackberry/include/libtiff/tiffconf.h
+END
+tiffio.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/blackberry/include/libtiff/tiffio.h
+END
+tiff.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/blackberry/include/libtiff/tiff.h
+END
+tiffvers.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/blackberry/include/libtiff/tiffvers.h
+END

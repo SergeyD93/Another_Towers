@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/surfer/!svn/ver/3/CocosDenshion/third_party/fmod/api/inc
+END
+fmod_memoryinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/surfer/!svn/ver/3/CocosDenshion/third_party/fmod/api/inc/fmod_memoryinfo.h
+END
+fmod_dsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/surfer/!svn/ver/3/CocosDenshion/third_party/fmod/api/inc/fmod_dsp.h
+END
+fmod_errors.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/surfer/!svn/ver/3/CocosDenshion/third_party/fmod/api/inc/fmod_errors.h
+END
+fmod_codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/surfer/!svn/ver/3/CocosDenshion/third_party/fmod/api/inc/fmod_codec.h
+END
+fmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/surfer/!svn/ver/3/CocosDenshion/third_party/fmod/api/inc/fmod.h
+END
+fmod.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/surfer/!svn/ver/3/CocosDenshion/third_party/fmod/api/inc/fmod.hpp
+END
+fmod_output.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/surfer/!svn/ver/3/CocosDenshion/third_party/fmod/api/inc/fmod_output.h
+END
+fmodlinux.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/surfer/!svn/ver/3/CocosDenshion/third_party/fmod/api/inc/fmodlinux.h
+END

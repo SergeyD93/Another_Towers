@@ -1,0 +1,350 @@
+defines
+{
+
+}
+
+options
+{
+# path to data of current game
+
+	s3e-data-dir="Data"
+
+# paths to modules of cocos2d-x - uncomment and customize if you need additional modules
+
+	module_path="../../cocos2dx/proj.marmalade/"
+	module_path="../../extensions/proj.marmalade/"
+	module_path="../../Box2D/proj.marmalade/"
+	module_path="../../CocosDenshion/proj.marmalade/"
+}
+assets
+{
+ (Data)
+ 
+ [iPhone]
+ back_layers.xml
+ background.xml
+ items.xml
+ objects.xml
+ player.xml
+ quest_open.xml
+ quests.xml
+ settings.xml
+ strings.xml
+ black.png
+ windows.xml
+ Fonts/.
+ levels/.
+ Shaders/.
+ Sound/.
+ xml/.
+ Textures/960_640/.
+ TapjoyResources.bundle/.
+ 
+ [iPad]
+ back_layers.xml
+ background.xml
+ items.xml
+ objects.xml
+ player.xml
+ quest_open.xml
+ quests.xml
+ settings.xml
+ strings.xml
+ windows.xml
+ black.png
+ Fonts/.
+ levels/.
+ Shaders/.
+ Sound/.
+ xml/.
+ Textures/1024_768/.
+ Textures/2048_1536/.
+ TapjoyResources.bundle/.
+
+ [Android]
+ back_layers.xml
+ background.xml
+ items.xml
+ objects.xml
+ player.xml
+ quest_open.xml
+ quests.xml
+ settings.xml
+ strings.xml
+ windows.xml
+ black.png
+ Fonts/.
+ levels/.
+ Shaders/.
+ Sound/.
+ xml/.
+  Textures/512_384/.
+ Textures/1024_768/.
+ Textures/2048_1536/.
+ TapjoyResources.bundle/.
+}
+includepaths
+{
+	..
+}
+subprojects
+{
+# required module of Marmalade
+
+	IwGL
+	iwhttp
+	s3eIOSGameCenter
+	s3eDialog
+	s3eTapjoy
+	CB_SDK
+	#s3eAppLovin
+	s3eAndroidMarketBilling
+   	s3eIOSAppStoreBilling
+
+	
+# required module of cocos2d-x
+
+	cocos2dx
+	cocos2dx-ext
+
+# additional modules of cocos2d-x - uncomment if necessary
+
+	Box2D
+#	chipmunk
+	CocosDenshion
+    pugixml
+}                       
+
+files
+{
+	[Source]	
+	("Source")
+	"*.h"
+	"*.cpp"
+	
+	[Source/Utils]	
+	("Source/Utils")
+	"*.h"
+	"*.cpp"
+	
+	[Source/Objects]	
+	("Source/Objects")
+	"*.h"
+	"*.cpp"
+	
+	[Source/Properties]
+	("Source/Properties")
+	"*.h"
+	
+	[Source/DataProcessor]
+	(Source/DataProcessor)
+	"*.h"
+	"*.cpp"
+
+	[Source/Dialog]	
+	("Source/Dialog")
+	"*.h"
+	"*.cpp"
+	
+	[Source/Gadgets]
+	(Source/Gadgets)
+	"*.h"
+	"*.cpp"
+	
+}
+#### AUTO GENERATED deployment settings from DeployTool.exe. Do not edit below this line ####
+deployments
+{
+	["Android_Debug"]
+	android-aliasname='alias_name'
+	android-keypass='delphi'
+	android-keystore='my-release-key.keystore'
+	android-manifest='AndroidManifest.xml'
+	android-storepass='delphi'
+	app-icf='Data/app_iPadPaid.icf'
+	assets='Android'
+	caption='Banzai Surfer'
+	copyright='Nekki LTD'
+	icon='icon.png'
+	name='Surfer'
+	provider='Surfer'
+	splashscreen='Data/black.png'
+	version-major=1
+	version-minor=0
+	version-revision=5
+	version-string='1.0.5'
+	["Android_Free"]
+	android-aliasname='alias_name'
+	android-keypass='delphi'
+	android-keystore='my-release-key.keystore'
+	android-manifest='AndroidManifest.xml'
+	android-pkgname='com.nekki.surferfree'
+	android-storepass='delphi'
+	app-icf='Data/app_iPadFree.icf'
+	assets='Android'
+	caption='Banzai Surfer'
+	copyright='Nekki LTD'
+	icon='icon_free.png'
+	name='Surfer'
+	provider='Surfer'
+	splashscreen='Data/black.png'
+	version-major=1
+	version-minor=0
+	version-revision=5
+	version-string='1.0.5'
+	["Android_Paid"]
+	android-aliasname='alias_name'
+	android-keypass='delphi'
+	android-keystore='my-release-key.keystore'
+	android-manifest='AndroidManifest.xml'
+	android-storepass='delphi'
+	app-icf='Data/app_iPadPaid.icf'
+	assets='Android'
+	caption='Banzai Surfer'
+	copyright='Nekki LTD'
+	icon='icon.png'
+	name='Surfer'
+	provider='Surfer'
+	splashscreen='Data/black.png'
+	version-major=1
+	version-minor=0
+	version-revision=5
+	version-string='1.0.5'
+	["Default"]
+	caption='Surfer'
+	embed-icf=1
+	icon='icon.png'
+	iphone-appid='com.nekki.serfer.test'
+	iphone-bundle-localisations='com.nekki.surfer.ipad'
+	iphone-bundle-url-name='com.nekki.surfer.ipad'
+	iphone-enable-4inch-retina=1
+	iphone-ipad-only=0
+	iphone-prerendered-icon=1
+	iphone-provisioning-profile='Serfer-1.mobileprovision'
+	name='surfer'
+	version-major=0
+	version-minor=0
+	version-revision=2
+	version-string='0.0.2'
+	win32-icon='icon.png'
+	["iPad"]
+	app-icf='Data/app_iPad.icf'
+	assets='iPad'
+	caption='Banzai Surfer'
+	copyright='Nekki LTD'
+	icon='icon_free.png'
+	iphone-appid='com.nekki.surferfree.ipad'
+	iphone-backgroundmode-audio=0
+	iphone-bundle-url-schemes='fb621672347847406'
+	iphone-enable-4inch-retina=1
+	iphone-ipad-only=1
+	iphone-prerendered-icon=1
+	iphone-provisioning-profile='Surfer_iPad_Free-1.mobileprovision'
+	iphone-sign-for-distribution=0
+	name='Surfer'
+	provider='Nekki LTD'
+	splashscreen='Data/black.png'
+	version-major=1
+	version-minor=0
+	version-revision=0
+	version-string='1.0.0'
+	["iPadFree"]
+	app-icf='Data/app_iPadFree.icf'
+	assets='iPad'
+	caption='Banzai Surfer'
+	copyright='Nekki LTD'
+	icon='icon_free.png'
+	iphone-appid='com.nekki.surferfree.ipad'
+	iphone-backgroundmode-audio=0
+	iphone-bundle-url-schemes='fb621672347847406'
+	iphone-enable-4inch-retina=1
+	iphone-ipad-only=1
+	iphone-prerendered-icon=1
+	iphone-provisioning-profile='Surfer_iPad_Free_Store.mobileprovision'
+	iphone-sign-for-distribution=1
+	name='Surfer'
+	provider='Nekki LTD'
+	splashscreen='Data/black.png'
+	version-major=1
+	version-minor=0
+	version-revision=0
+	version-string='1.0.0'
+	["iPadPaid"]
+	app-icf='Data/app_iPadPaid.icf'
+	assets='iPad'
+	caption='Banzai Surfer'
+	copyright='Nekki LTD'
+	icon='icon.png'
+	iphone-appid='com.nekki.surfer.ipad'
+	iphone-backgroundmode-audio=1
+	iphone-bundle-url-schemes='fb621672347847406'
+	iphone-enable-4inch-retina=1
+	iphone-ipad-only=1
+	iphone-prerendered-icon=1
+	iphone-provisioning-profile='Surfer_pad_store.mobileprovision'
+	iphone-sign-for-distribution=1
+	name='Surfer'
+	provider='Nekki LTD'
+	splashscreen='Data/black.png'
+	version-major=1
+	version-minor=0
+	version-revision=1
+	version-string='1.0.1'
+	["iPhone"]
+	app-icf='Data/app_iPhone.icf'
+	assets='iPhone'
+	caption='Banzai Surfer'
+	copyright='Nekki LTD'
+	icon='icon_free.png'
+	iphone-appid='com.nekki.surferfree.iphone'
+	iphone-disable-ipad=1
+	iphone-enable-4inch-retina=1
+	iphone-prerendered-icon=1
+	iphone-provisioning-profile='Surfer_iPhone_Free.mobileprovision'
+	iphone-sign-for-distribution=0
+	name='Surfer'
+	provider='Nekki LTD'
+	splashscreen='Data/black.png'
+	version-major=1
+	version-minor=0
+	version-revision=0
+	version-string='1.0.0'
+	["iPhoneFree"]
+	app-icf='Data/app_iPhoneFree.icf'
+	assets='iPhone'
+	caption='Banzai Surfer'
+	copyright='Nekki LTD'
+	icon='icon_free.png'
+	iphone-appid='com.nekki.surferfree.iphone'
+	iphone-disable-ipad=1
+	iphone-enable-4inch-retina=1
+	iphone-prerendered-icon=1
+	iphone-provisioning-profile='Surfer_iPhone_Free.mobileprovision'
+	iphone-sign-for-distribution=1
+	name='Surfer'
+	provider='Nekki LTD'
+	splashscreen='Data/black.png'
+	version-major=1
+	version-minor=0
+	version-revision=0
+	version-string='1.0.0'
+	["iPhonePaid"]
+	app-icf='Data/app_iPhonePaid.icf'
+	assets='iPhone'
+	caption='Banzai Surfer'
+	copyright='Nekki LTD'
+	icon='icon.png'
+	iphone-appid='com.nekki.surfer.iphone'
+	iphone-disable-ipad=1
+	iphone-enable-4inch-retina=1
+	iphone-prerendered-icon=1
+	iphone-provisioning-profile='Surfer_iphone_store.mobileprovision'
+	iphone-sign-for-distribution=1
+	name='Surfer'
+	provider='Nekki LTD'
+	splashscreen='Data/black.png'
+	version-major=1
+	version-minor=0
+	version-revision=1
+	version-string='1.0.1'
+}

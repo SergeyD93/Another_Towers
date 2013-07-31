@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/surfer/!svn/ver/487/cocos2dx/platform/mac
+END
+CCEGLView.mm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/surfer/!svn/ver/487/cocos2dx/platform/mac/CCEGLView.mm
+END
+CCApplication.mm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/surfer/!svn/ver/487/cocos2dx/platform/mac/CCApplication.mm
+END
+CCEventDispatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/surfer/!svn/ver/487/cocos2dx/platform/mac/CCEventDispatcher.h
+END
+CCThread.mm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/surfer/!svn/ver/487/cocos2dx/platform/mac/CCThread.mm
+END
+CCStdC.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/surfer/!svn/ver/487/cocos2dx/platform/mac/CCStdC.h
+END
+EAGLView.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/surfer/!svn/ver/487/cocos2dx/platform/mac/EAGLView.h
+END
+CCDirectorCaller.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/surfer/!svn/ver/487/cocos2dx/platform/mac/CCDirectorCaller.h
+END
+CCPlatformDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/surfer/!svn/ver/487/cocos2dx/platform/mac/CCPlatformDefine.h
+END
+CCGL.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/surfer/!svn/ver/487/cocos2dx/platform/mac/CCGL.h
+END
+CCEGLView.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/surfer/!svn/ver/487/cocos2dx/platform/mac/CCEGLView.h
+END
+CCApplication.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/surfer/!svn/ver/487/cocos2dx/platform/mac/CCApplication.h
+END
+CCImage.mm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/surfer/!svn/ver/487/cocos2dx/platform/mac/CCImage.mm
+END
+CCWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/surfer/!svn/ver/487/cocos2dx/platform/mac/CCWindow.h
+END
+CCEventDispatcher.mm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/surfer/!svn/ver/487/cocos2dx/platform/mac/CCEventDispatcher.mm
+END
+CCCommon.mm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/surfer/!svn/ver/487/cocos2dx/platform/mac/CCCommon.mm
+END
+CCAccelerometer.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/surfer/!svn/ver/487/cocos2dx/platform/mac/CCAccelerometer.h
+END
+CCWindow.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/surfer/!svn/ver/487/cocos2dx/platform/mac/CCWindow.m
+END
+EAGLView.mm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/surfer/!svn/ver/487/cocos2dx/platform/mac/EAGLView.mm
+END
+CCDirectorCaller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/surfer/!svn/ver/487/cocos2dx/platform/mac/CCDirectorCaller.mm
+END
+CCFileUtils.mm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/surfer/!svn/ver/487/cocos2dx/platform/mac/CCFileUtils.mm
+END

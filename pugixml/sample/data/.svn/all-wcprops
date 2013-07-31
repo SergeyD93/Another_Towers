@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/surfer/!svn/ver/3/pugixml/sample/data
+END
+app.icf
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/surfer/!svn/ver/3/pugixml/sample/data/app.icf
+END
+sample1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/surfer/!svn/ver/3/pugixml/sample/data/sample1.xml
+END
+app.config.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/surfer/!svn/ver/3/pugixml/sample/data/app.config.txt
+END
+development.icf
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/surfer/!svn/ver/3/pugixml/sample/data/development.icf
+END

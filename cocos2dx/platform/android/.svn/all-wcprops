@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/surfer/!svn/ver/487/cocos2dx/platform/android
+END
+CCApplication.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/surfer/!svn/ver/487/cocos2dx/platform/android/CCApplication.h
+END
+CCCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/surfer/!svn/ver/487/cocos2dx/platform/android/CCCommon.cpp
+END
+CCAccelerometer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/surfer/!svn/ver/487/cocos2dx/platform/android/CCAccelerometer.cpp
+END
+CCAccelerometer.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/surfer/!svn/ver/487/cocos2dx/platform/android/CCAccelerometer.h
+END
+CCFileUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/surfer/!svn/ver/487/cocos2dx/platform/android/CCFileUtils.cpp
+END
+CCEGLView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/surfer/!svn/ver/487/cocos2dx/platform/android/CCEGLView.cpp
+END
+CCImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/surfer/!svn/ver/487/cocos2dx/platform/android/CCImage.cpp
+END
+CCStdC.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/surfer/!svn/ver/487/cocos2dx/platform/android/CCStdC.h
+END
+CCApplication.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/surfer/!svn/ver/487/cocos2dx/platform/android/CCApplication.cpp
+END
+CCPlatformDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/surfer/!svn/ver/487/cocos2dx/platform/android/CCPlatformDefine.h
+END
+CCEGLView.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/surfer/!svn/ver/487/cocos2dx/platform/android/CCEGLView.h
+END
+CCGL.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/surfer/!svn/ver/487/cocos2dx/platform/android/CCGL.h
+END

@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources
+END
+relaxng.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/relaxng.c
+END
+triodef.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/triodef.h
+END
+rngparser.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/rngparser.c
+END
+legacy.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/legacy.c
+END
+nanoftp.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/nanoftp.c
+END
+triostr.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/triostr.c
+END
+debugXML.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/debugXML.c
+END
+xpointer.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/xpointer.c
+END
+catalog.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/catalog.c
+END
+trionan.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/trionan.c
+END
+triostr.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/triostr.h
+END
+SAX2.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/SAX2.c
+END
+trionan.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/trionan.h
+END
+xmlsave.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/xmlsave.c
+END
+HTMLparser.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/HTMLparser.c
+END
+dict.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/dict.c
+END
+hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/hash.c
+END
+encoding.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/encoding.c
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/error.c
+END
+xmlmemory.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/xmlmemory.c
+END
+threads.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/threads.c
+END
+runxmlconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/runxmlconf.c
+END
+SAX.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/SAX.c
+END
+xmlcatalog.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/xmlcatalog.c
+END
+tree.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/tree.c
+END
+uri.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/uri.c
+END
+valid.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/valid.c
+END
+triop.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/triop.h
+END
+schematron.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/schematron.c
+END
+runtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/runtest.c
+END
+xmlschemas.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/xmlschemas.c
+END
+c14n.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/c14n.c
+END
+xmlmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/xmlmodule.c
+END
+xmlunicode.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/xmlunicode.c
+END
+chvalid.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/chvalid.c
+END
+list.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/list.c
+END
+xinclude.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/xinclude.c
+END
+xmlregexp.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/xmlregexp.c
+END
+parserInternals.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/parserInternals.c
+END
+pattern.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/pattern.c
+END
+trio.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/trio.c
+END
+runsuite.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/runsuite.c
+END
+elfgcchack.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/elfgcchack.h
+END
+trio.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/trio.h
+END
+globals.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/globals.c
+END
+xmlreader.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/xmlreader.c
+END
+DOCBparser.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/DOCBparser.c
+END
+HTMLtree.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/HTMLtree.c
+END
+entities.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/entities.c
+END
+xpath.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/xpath.c
+END
+xlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/xlink.c
+END
+xmllint.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/xmllint.c
+END
+xmlstring.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/xmlstring.c
+END
+xmlIO.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/xmlIO.c
+END
+xmlschemastypes.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/xmlschemastypes.c
+END
+nanohttp.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/nanohttp.c
+END
+parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/parser.c
+END
+libxml.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/libxml.h
+END
+xmlwriter.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/libxml2/sources/xmlwriter.c
+END

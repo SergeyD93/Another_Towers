@@ -1,0 +1,92 @@
+10
+
+dir
+1172
+http://ilogos-ua.dyndns.org/svn/surfer/cocos2dx/platform/third_party/win32
+http://ilogos-ua.dyndns.org/svn/surfer
+
+
+
+2013-01-08T08:56:21.134854Z
+487
+dmytro.kazak@ilogos-ua.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5f14d45c-80e6-407b-b58d-051a7ae317af
+
+libtiff
+dir
+
+third_party_versions.txt
+file
+
+
+
+
+2013-07-01T08:23:18.000000Z
+c64fb2b808e18411b11914c185995b20
+2013-01-08T08:56:21.134854Z
+487
+dmytro.kazak@ilogos-ua.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+121
+
+zlib
+dir
+
+curl
+dir
+
+pthread
+dir
+
+OGLES
+dir
+
+libxml2
+dir
+
+libpng
+dir
+
+libjpeg
+dir
+
+libraries
+dir
+
+iconv
+dir
+

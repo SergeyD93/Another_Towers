@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pfr
+END
+pfrgload.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pfr/pfrgload.c
+END
+pfrdrivr.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pfr/pfrdrivr.c
+END
+pfrgload.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pfr/pfrgload.h
+END
+pfrdrivr.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pfr/pfrdrivr.h
+END
+pfrobjs.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pfr/pfrobjs.c
+END
+pfrerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pfr/pfrerror.h
+END
+pfrsbit.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pfr/pfrsbit.c
+END
+pfrobjs.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pfr/pfrobjs.h
+END
+module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pfr/module.mk
+END
+pfrsbit.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pfr/pfrsbit.h
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pfr/rules.mk
+END
+pfrtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pfr/pfrtypes.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pfr/Jamfile
+END
+pfrload.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pfr/pfrload.c
+END
+pfr.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pfr/pfr.c
+END
+pfrcmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pfr/pfrcmap.c
+END
+pfrload.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pfr/pfrload.h
+END
+pfrcmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/pfr/pfrcmap.h
+END

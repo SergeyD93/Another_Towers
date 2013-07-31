@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/surfer/!svn/ver/487/cocos2dx/shaders
+END
+ccShaders.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/surfer/!svn/ver/484/cocos2dx/shaders/ccShaders.cpp
+END
+CCShaderCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/surfer/!svn/ver/484/cocos2dx/shaders/CCShaderCache.cpp
+END
+CCGLProgram.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/surfer/!svn/ver/484/cocos2dx/shaders/CCGLProgram.cpp
+END
+ccGLStateCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/surfer/!svn/ver/484/cocos2dx/shaders/ccGLStateCache.h
+END
+ccShader_PositionColor_frag.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/surfer/!svn/ver/484/cocos2dx/shaders/ccShader_PositionColor_frag.h
+END
+ccShader_PositionColor_vert.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/surfer/!svn/ver/484/cocos2dx/shaders/ccShader_PositionColor_vert.h
+END
+ccShaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/surfer/!svn/ver/484/cocos2dx/shaders/ccShaders.h
+END
+CCShaderCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/surfer/!svn/ver/484/cocos2dx/shaders/CCShaderCache.h
+END
+CCGLProgram.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/surfer/!svn/ver/484/cocos2dx/shaders/CCGLProgram.h
+END
+ccShader_PositionTexture_uColor_frag.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/surfer/!svn/ver/484/cocos2dx/shaders/ccShader_PositionTexture_uColor_frag.h
+END
+ccShader_PositionTexture_uColor_vert.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/surfer/!svn/ver/484/cocos2dx/shaders/ccShader_PositionTexture_uColor_vert.h
+END
+ccShaderEx_SwitchMask_frag.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/surfer/!svn/ver/3/cocos2dx/shaders/ccShaderEx_SwitchMask_frag.h
+END
+ccShader_PositionTextureA8Color_frag.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/surfer/!svn/ver/484/cocos2dx/shaders/ccShader_PositionTextureA8Color_frag.h
+END
+ccShader_PositionTextureA8Color_vert.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/surfer/!svn/ver/484/cocos2dx/shaders/ccShader_PositionTextureA8Color_vert.h
+END
+ccShader_PositionTextureColor_frag.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/surfer/!svn/ver/484/cocos2dx/shaders/ccShader_PositionTextureColor_frag.h
+END
+ccShader_PositionTextureColor_vert.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/surfer/!svn/ver/484/cocos2dx/shaders/ccShader_PositionTextureColor_vert.h
+END
+ccShader_PositionTexture_frag.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/surfer/!svn/ver/484/cocos2dx/shaders/ccShader_PositionTexture_frag.h
+END
+ccShader_PositionColorLengthTexture_frag.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/surfer/!svn/ver/487/cocos2dx/shaders/ccShader_PositionColorLengthTexture_frag.h
+END
+ccShader_PositionTexture_vert.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/surfer/!svn/ver/484/cocos2dx/shaders/ccShader_PositionTexture_vert.h
+END
+ccShader_PositionColorLengthTexture_vert.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/surfer/!svn/ver/487/cocos2dx/shaders/ccShader_PositionColorLengthTexture_vert.h
+END
+ccShader_Position_uColor_frag.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/surfer/!svn/ver/484/cocos2dx/shaders/ccShader_Position_uColor_frag.h
+END
+ccShader_Position_uColor_vert.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/surfer/!svn/ver/484/cocos2dx/shaders/ccShader_Position_uColor_vert.h
+END
+ccShader_PositionTextureColorAlphaTest_frag.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/surfer/!svn/ver/484/cocos2dx/shaders/ccShader_PositionTextureColorAlphaTest_frag.h
+END
+ccGLStateCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/surfer/!svn/ver/484/cocos2dx/shaders/ccGLStateCache.cpp
+END

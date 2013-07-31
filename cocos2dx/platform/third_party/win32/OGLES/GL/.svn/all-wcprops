@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/win32/OGLES/GL
+END
+glew.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/win32/OGLES/GL/glew.h
+END
+wglew.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/win32/OGLES/GL/wglew.h
+END
+glxew.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/win32/OGLES/GL/glxew.h
+END

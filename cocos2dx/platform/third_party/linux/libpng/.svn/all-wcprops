@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/linux/libpng
+END
+pngconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/linux/libpng/pngconf.h
+END
+cexcept.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/linux/libpng/cexcept.h
+END
+writepng.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/linux/libpng/writepng.h
+END
+readpng.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/linux/libpng/readpng.h
+END
+readpng2.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/linux/libpng/readpng2.h
+END
+PngFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/linux/libpng/PngFile.h
+END
+png.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/linux/libpng/png.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/linux/libpng/config.h
+END
+pngpriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/linux/libpng/pngpriv.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/linux/libpng/resource.h
+END

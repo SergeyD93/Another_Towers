@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/win32/pthread
+END
+semaphore.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/win32/pthread/semaphore.h
+END
+sched.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/win32/pthread/sched.h
+END
+pthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/win32/pthread/pthread.h
+END

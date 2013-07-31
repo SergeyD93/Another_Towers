@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/surfer/!svn/ver/484/cocos2dx/sprite_nodes
+END
+CCAnimationCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/surfer/!svn/ver/484/cocos2dx/sprite_nodes/CCAnimationCache.h
+END
+CCSpriteFrameCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/surfer/!svn/ver/484/cocos2dx/sprite_nodes/CCSpriteFrameCache.h
+END
+CCSprite.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/surfer/!svn/ver/484/cocos2dx/sprite_nodes/CCSprite.h
+END
+CCSpriteBatchNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/surfer/!svn/ver/484/cocos2dx/sprite_nodes/CCSpriteBatchNode.cpp
+END
+CCAnimation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/surfer/!svn/ver/484/cocos2dx/sprite_nodes/CCAnimation.cpp
+END
+CCSpriteFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/surfer/!svn/ver/484/cocos2dx/sprite_nodes/CCSpriteFrame.cpp
+END
+CCAnimationCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/surfer/!svn/ver/484/cocos2dx/sprite_nodes/CCAnimationCache.cpp
+END
+CCSpriteBatchNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/surfer/!svn/ver/484/cocos2dx/sprite_nodes/CCSpriteBatchNode.h
+END
+CCAnimation.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/surfer/!svn/ver/484/cocos2dx/sprite_nodes/CCAnimation.h
+END
+CCSpriteFrameCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/surfer/!svn/ver/484/cocos2dx/sprite_nodes/CCSpriteFrameCache.cpp
+END
+CCSprite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/surfer/!svn/ver/484/cocos2dx/sprite_nodes/CCSprite.cpp
+END
+CCSpriteFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/surfer/!svn/ver/484/cocos2dx/sprite_nodes/CCSpriteFrame.h
+END

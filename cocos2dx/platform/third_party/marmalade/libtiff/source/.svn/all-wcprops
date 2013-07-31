@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source
+END
+tif_strip.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_strip.c
+END
+tif_lzma.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_lzma.c
+END
+tif_warning.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_warning.c
+END
+tif_thunder.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_thunder.c
+END
+tif_dirread.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_dirread.c
+END
+tif_dumpmode.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_dumpmode.c
+END
+tif_lzw.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_lzw.c
+END
+tif_color.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_color.c
+END
+tif_dir.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_dir.c
+END
+tif_getimage.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_getimage.c
+END
+tif_version.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_version.c
+END
+tif_jpeg_12.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_jpeg_12.c
+END
+tif_dirwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_dirwrite.c
+END
+tif_dirinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_dirinfo.c
+END
+tif_write.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_write.c
+END
+tif_print.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_print.c
+END
+tif_swab.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_swab.c
+END
+tif_aux.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_aux.c
+END
+tif_tile.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_tile.c
+END
+tif_packbits.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_packbits.c
+END
+tif_open.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_open.c
+END
+tif_fax3.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_fax3.c
+END
+tif_fax3sm.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_fax3sm.c
+END
+tif_win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_win32.c
+END
+tif_zip.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_zip.c
+END
+tif_ojpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_ojpeg.c
+END
+tif_close.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_close.c
+END
+tif_luv.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_luv.c
+END
+tif_read.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_read.c
+END
+tif_jbig.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_jbig.c
+END
+tif_extension.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_extension.c
+END
+tif_codec.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_codec.c
+END
+tif_next.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_next.c
+END
+tif_flush.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_flush.c
+END
+tif_unix.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_unix.c
+END
+tif_pixarlog.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_pixarlog.c
+END
+tif_jpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_jpeg.c
+END
+tif_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_error.c
+END
+tif_predict.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_predict.c
+END
+tif_stream.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_stream.c
+END
+tif_compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/surfer/!svn/ver/487/cocos2dx/platform/third_party/marmalade/libtiff/source/tif_compress.c
+END

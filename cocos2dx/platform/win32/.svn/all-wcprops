@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/surfer/!svn/ver/487/cocos2dx/platform/win32
+END
+CCApplication.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/surfer/!svn/ver/487/cocos2dx/platform/win32/CCApplication.h
+END
+CCCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/surfer/!svn/ver/487/cocos2dx/platform/win32/CCCommon.cpp
+END
+CCAccelerometer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/surfer/!svn/ver/487/cocos2dx/platform/win32/CCAccelerometer.cpp
+END
+CCStdC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/surfer/!svn/ver/487/cocos2dx/platform/win32/CCStdC.cpp
+END
+CCAccelerometer.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/surfer/!svn/ver/487/cocos2dx/platform/win32/CCAccelerometer.h
+END
+CCFileUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/surfer/!svn/ver/487/cocos2dx/platform/win32/CCFileUtils.cpp
+END
+CCEGLView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/surfer/!svn/ver/487/cocos2dx/platform/win32/CCEGLView.cpp
+END
+CCImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/surfer/!svn/ver/487/cocos2dx/platform/win32/CCImage.cpp
+END
+CCStdC.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/surfer/!svn/ver/487/cocos2dx/platform/win32/CCStdC.h
+END
+CCApplication.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/surfer/!svn/ver/487/cocos2dx/platform/win32/CCApplication.cpp
+END
+CCPlatformDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/surfer/!svn/ver/487/cocos2dx/platform/win32/CCPlatformDefine.h
+END
+CCEGLView.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/surfer/!svn/ver/487/cocos2dx/platform/win32/CCEGLView.h
+END
+CCGL.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/surfer/!svn/ver/487/cocos2dx/platform/win32/CCGL.h
+END

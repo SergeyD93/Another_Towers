@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/bdf
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/bdf/rules.mk
+END
+bdf.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/bdf/bdf.h
+END
+bdfdrivr.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/bdf/bdfdrivr.c
+END
+bdflib.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/bdf/bdflib.c
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/bdf/Jamfile
+END
+bdfdrivr.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/bdf/bdfdrivr.h
+END
+bdferror.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/bdf/bdferror.h
+END
+module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/bdf/module.mk
+END
+bdf.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/bdf/bdf.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/surfer/!svn/ver/3/cocos2dx/platform/third_party/marmalade/freetype/src/bdf/README
+END
