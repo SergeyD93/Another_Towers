@@ -1,14 +1,9 @@
 ﻿#include "AppDelegate.h"
 #include "cocos2d.h"
 #include "LoadingScene.h"
-#include "Utils/Box2dHelper.h"
 #include "IwGL.h"
 #include "SimpleAudioEngine.h"
-#include "Properties/defines.h"
-#include "ControllerAll.h"
-#include "DataProcessor/PlayerInfo.h"
-#include "DataProcessor/AdModule.h"
-#include "DataProcessor/UserDataLocal.h"
+
 
 USING_NS_CC;
 using namespace CocosDenshion;
@@ -45,8 +40,6 @@ bool AppDelegate::applicationDidFinishLaunching()
 	s3eDeviceRegister(S3E_DEVICE_BACKGROUND,   (s3eCallback)backgroundCallback, NULL);
 	s3eKeyboardRegister(S3E_KEYBOARD_KEY_EVENT,(s3eCallback)backKeyCallback, NULL);
 	updateProjection();
-    UserDataLocal::Instance();
-    AdModule::currentModule()->loginAllSystem();
 	// Set the design resolution
 
 	CCSize frameSize = CCEGLView::sharedOpenGLView()->getFrameSize();
@@ -60,7 +53,7 @@ bool AppDelegate::applicationDidFinishLaunching()
 		pDirector->getOpenGLView()->setDesignResolutionSize(designResolutionSize.width, designResolutionSize.height, kResolutionExactFit);
 	}
 
-	if(Utils::isIOS())
+	/*if(Utils::isIOS())
 	{
 		if(Utils::isIphone())
 		{
@@ -82,14 +75,14 @@ bool AppDelegate::applicationDidFinishLaunching()
 		}
 	}
 	else if(Utils::isAndroid())
-	{
-		if ((frameSize.width >= iPadHD.size.width) || (frameSize.height >= iPadHD.size.height))
+	{*/
+		if ((frameSize.width >= 2048) || (frameSize.height >= 1536))
 		{
             CCLOG("This ?");
 			CCFileUtils::sharedFileUtils()->setResourceDirectory(iPadHD.directory);
 			pDirector->setContentScaleFactor(iPadHD.size.height/designResolutionSize.height);
 		}
-		else if ((frameSize.width >= iPad.size.width) || (frameSize.height >= iPad.size.height))
+		else if ((frameSize.width >= 1024) || (frameSize.height >= 768))
 		{
             CCLOG("This !");
 			CCFileUtils::sharedFileUtils()->setResourceDirectory(iPad.directory);
@@ -100,17 +93,16 @@ bool AppDelegate::applicationDidFinishLaunching()
 			CCFileUtils::sharedFileUtils()->setResourceDirectory(LowRes.directory);
 			pDirector->setContentScaleFactor(LowRes.size.height/designResolutionSize.height);
 		}
-	}
+	/*}
 	else
 	{
 		//assert(false, "UNKNOWN PLATFORM");
 	}
-
+*/
 	pDirector->setDisplayStats(true);
 	//pDirector->setAnimationInterval(1.0 / 60);
 	//pDirector->setDepthTest(false);
 	//pDirector->enableRetinaDisplay(true);
-	Box2dHelper::initBox2dHelper();
 	CCScene * pScene = CCScene::create();
 	CCLayer * pLayer = LoadingScene::create();
 	pScene->addChild(pLayer);
@@ -181,17 +173,6 @@ void updateOrientation(s3eSurfaceOrientation* orien, void* userData)
 
 void pauseCallback( void *systemdata, void *userdata )
 {
-	if(!GAME_SCENE)
-	{
-		return;
-	}
-
-	CCLOG("PAUSE 1");
-    if (!PlayerInfo::Instance()->idleState && !GAME_SCENE->isAnyWindowShowed())
-	{
-        GAME_SCENE->pauseClick(NULL);
-    }
-    CCLOG("PAUSE 2");
 }
 
 void unPauseCallback( void *systemdata, void *userdata )

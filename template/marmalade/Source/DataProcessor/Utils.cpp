@@ -8,7 +8,7 @@
 
 #include "Utils.h"
 #include <sstream>
-#include "../Properties/defines.h"
+//#include "../Properties/defines.h"
 
 
 CCAnimate * Utils::createAnimation(std::string fileName, std::string path, float time, int size)
@@ -224,11 +224,7 @@ void Utils::split(std::string src, const char* token, strArray& vect)
 
 bool Utils::isIOS()
 {
-    if (IS_SIMUL){
-        return true;
-    }else{
         return s3eDeviceGetInt(S3E_DEVICE_OS) == S3E_OS_ID_IPHONE;
-    }
 }
 
 bool Utils::isAndroid()

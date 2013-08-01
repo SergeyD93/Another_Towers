@@ -26,7 +26,7 @@ THE SOFTWARE.
 #include "SimpleAudioEngine.h"
 #include "s3e.h"
 #include "IwUtil.h"
-#include "../../template/marmalade/Source/DataProcessor/UserDataLocal.h"
+//#include "../../template/marmalade/Source/DataProcessor/UserDataLocal.h"
 //#include "UserDataLocal.h"
 //#include "UserDataLocal.h"
 
@@ -459,7 +459,7 @@ namespace CocosDenshion
 				if(!m_sNextMusic.empty())
 				{
 					playBackgroundMusic(m_sNextMusic.c_str(), m_bNextLoop);
-					fadeInMusic(_fadeStep, UserDataLocal::Instance()->_musicVolume);
+					//fadeInMusic(_fadeStep, UserDataLocal::Instance()->_musicVolume);
 				}
 			}
 		}

@@ -1,0 +1,12 @@
+--dll="/Users/jnick/Projects/Another_Towers/template/marmalade/build_another_towers_xcode/build/Debug/Another_Towers.s86"
+--data="/Users/jnick/Projects/Another_Towers/template/marmalade/Data"
+--checks3edir="1"
+--app-icf1="/Users/jnick/Projects/Another_Towers/template/marmalade/Data/app.icf"
+--osx-ext-dll1="/Developer/Marmalade/6.3/extensions/s3eDialog/lib/osx/libs3eDialog.dylib"
+--config-txt1="/Developer/Marmalade/6.3/modules/IwGL/docs/iwgl.config.txt"
+--config-txt2="/Developer/Marmalade/6.3/modules/iwhttp/docs/iwhttp.config.txt"
+--config-txt3="/Developer/Marmalade/6.3/modules/iwutil/docs/iwutil.config.txt"
+--config-txt4="/Developer/Marmalade/6.3/s3e/s3e.config.txt"
+--config-txt5="/Users/jnick/Projects/Another_Towers/template/marmalade/Data/app.config.txt"
+--config-txt6="/Developer/Marmalade/6.3/s3e/s3e.config.txt"
+--s3e-dir=/Developer/Marmalade/6.3/s3e
